@@ -3,3 +3,4 @@
 export(NRDD)
 export(nrdbw)
 export(nrddgp)
+export(nrdse)
